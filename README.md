@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hola
 
-<!--
-**hectorlgr/hectorlgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Informática, con enfoque en desarrollo de software.
 
-Here are some ideas to get you started:
+Actualmente estoy aprendiendo:
+- Programación orientada a objetos
+- Desarrollo web
+- Bases de datos SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologías:
+- Java
+- Python
+- SQL
+- Git
+
+### Objetivo
+Seguir aprendiendo y ganar experiencia en proyectos reales.
